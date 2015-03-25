@@ -1,4 +1,7 @@
-// Playground - noun: a place where people can play
+//: ## Star Wars Loading
+//:
+//: This sample shows how to load a little chunk of data from the Star Wars API
+//:
 
 import UIKit
 
